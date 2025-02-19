@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <!--HTML file auto generated using emulatorjs codehelper-->
+    </head>
+    <body>
+        <div style="width:1920px;height:1440px;max-width:100%">
+            <div id="game"></div>
+        </div>
+        <script>
+            EJS_player = "#game";
+            EJS_core = "n64";
+            EJS_gameName = "Super Smash Bros";
+            EJS_startOnLoaded = true;
+            EJS_pathtodata = "https://rawcdn.githack.com/ethanaobrien/emulatorjs/main/data/";
+            EJS_loadStateURL = "Jiggly_Puff.state";
+            EJS_gameUrl = "Super Smash Bros. (U) [!].z64";
+        </script>
+        <script src="https://rawcdn.githack.com/ethanaobrien/emulatorjs/main/data/loader.js"></script>
+    </body>
+</html>
